@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad1.2S_D</string>
+
+    <string name="editNombre"> Nombre </string>
+
+    <string name="editApellido"> Apellido </string>
+
+</resources>
